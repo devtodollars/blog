@@ -12,7 +12,7 @@ layout:
     visible: false
 ---
 
-# My AI Tech Stack of a YC Backed Founder ($3.1k MRR)
+# 🚧 My AI Tech Stack of a YC Backed Founder ($3.1k MRR)
 
 
 
