@@ -18,7 +18,7 @@ Hi! My name is Matt. I'm a former CTO of a YC backed startup and I've built 2 ap
 
 Before moving onto my third startup, I wanted to take a step back, reflect on what I've done and create a good base for future startups. Which is why I've decided to write down my tech stack and create some boilerplate code for my future startups. I hope sharing this can help you build your startup!
 
-[Boilerplate Code](https://github.com/devtodollars/flutter-supabase-production-template)
+[Github Boilerplate Code](https://github.com/devtodollars/flutter-supabase-production-template)
 
 **Development**
 
